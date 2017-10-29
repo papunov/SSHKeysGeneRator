@@ -1,2 +1,2 @@
 # SSHKeysGeneRator
-Creating Multiple SSH Keys pairs
+Creating Multiple SSH Keys pairs using Random Passwords
